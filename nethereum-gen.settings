@@ -1,0 +1,7 @@
+{
+    "projectName": "MerkleTree",
+    "namespace": "MerkleTree.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}
